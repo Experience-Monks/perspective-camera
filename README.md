@@ -2,6 +2,10 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
+[![demo-image](http://i.imgur.com/anR1By6.png)](http://jam3.github.io/perspective-camera/)
+
+[demo](http://jam3.github.io/perspective-camera/) - [source](demo/canvas.js)
+
 A high-level 3D perspective camera with a familiar and convenient interface, built from modular pieces.
 
 ```js
@@ -27,7 +31,7 @@ if (ray.intersectsSphere(center, radius)) {
 }
 ```
 
-See [demo/canvas.js](demo/canvas.js) for a full example.
+See [demo/canvas.js](demo/canvas.js) for a full example, using Canvas2D.
 
 ## Usage
 
