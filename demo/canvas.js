@@ -1,6 +1,6 @@
 var mousePosition = require('touch-position')()
 var drawTriangles = require('draw-triangles-2d')
-var createApp = require('canvas-fit-loop')
+var createApp = require('canvas-loop')
 
 // get a Canvas2D context
 var ctx = require('2d-context')()
