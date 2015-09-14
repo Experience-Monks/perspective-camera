@@ -1,6 +1,6 @@
 {
   "name": "perspective-camera",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "a high-level 3D perspective camera",
   "main": "index.js",
   "license": "MIT",
