@@ -109,6 +109,7 @@ The current position, direction, and up vectors.
 - [camera-project](https://www.npmjs.com/package/camera-project)
 - [camera-picking-ray](https://www.npmjs.com/package/camera-picking-ray)
 - [ray-3d](https://www.npmjs.com/package/ray-3d)
+- [ray-aabb-intersection](https://www.npmjs.com/package/ray-aabb-intersection)
 - [ray-sphere-intersection](https://www.npmjs.com/package/ray-sphere-intersection)
 - [ray-plane-intersection](https://www.npmjs.com/package/ray-plane-intersection)
 - [ray-triangle-intersection](https://www.npmjs.com/package/ray-triangle-intersection)
