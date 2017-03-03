@@ -113,6 +113,7 @@ The current position, direction, and up vectors.
 - [ray-sphere-intersection](https://www.npmjs.com/package/ray-sphere-intersection)
 - [ray-plane-intersection](https://www.npmjs.com/package/ray-plane-intersection)
 - [ray-triangle-intersection](https://www.npmjs.com/package/ray-triangle-intersection)
+- [orthographic-camera](https://www.npmjs.com/package/orthographic-camera)
 
 ## License
 
